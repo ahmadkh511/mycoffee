@@ -1,0 +1,42 @@
+<!-- ناخوذ كل الاكواد من خلا المتصفح اي نفتح   انسبيكت    و ممكن ان نجمع كل الاكواد المتشابه مع بعض--->
+
+#header{
+
+    background: #5A020Cce; 
+    color: #fff !important;
+}
+
+#head{
+
+    color: bisque !important;
+}
+
+
+.module h2, 
+.module caption, 
+.inline-group h2{
+
+    background: #83333cce; 
+}
+
+
+div.breadcrumbs{
+
+    background: #83333cce; 
+}
+
+
+.selector-chosen h2{
+
+    background: #338340ce !important; 
+    color: rgb(219, 14, 14) !important;
+
+}
+
+.module h2, .module caption, .inline-group h2{
+
+    background: #338340ce !important; 
+
+}
+
+
